@@ -1,0 +1,79 @@
+body {
+    background: blanchedalmond;
+}
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 40px;
+}
+h3 {
+    font-size: 30px;
+    padding-bottom: 35px;
+    text-align: justify;
+}
+
+.title {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+input {
+    margin: 0;
+}
+.content {
+    text-align: center;
+    font-size: 30px;
+}
+.btn {
+    display: flex;
+    justify-content: center;
+}
+.answ, .answ2 {
+    font-size: 30px;
+    cursor: pointer;
+    background: lemonchiffon;
+
+    font-weight: bold;
+    height: 45px;
+}
+
+.answ {
+    width: 155px;
+}
+
+.right {
+    background-color: rgba(0, 200, 0, 0.5);
+}
+
+.wrong1 {
+    background-color: rgb(255, 44, 55);
+}
+
+
+.right,
+.wrong1 {
+    text-align: center;
+    padding-bottom: 5px;
+    font-size: 35px;
+
+}
+
+.hdn {
+padding-bottom: 20px;
+font-size: 22px;
+display: none;
+}
+
+.opend {
+background-color: skyblue;
+}
+
+.correct {
+    text-align: center;
+    font-size: 24px;
+    padding-bottom: 20px;
+    color: darkorchid;
+    font-weight: bold;
+}

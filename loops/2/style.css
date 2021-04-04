@@ -1,0 +1,40 @@
+body {
+    font-size: 30px;
+    background: lightblue;
+}
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+}
+.main
+{
+    text-align: center;
+}
+button {
+    font-size: 30px;
+    border-radius: 10px;
+    background: chartreuse;
+    width: 160px;
+    height: 40px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+p {
+
+    font-size: 40px;
+}
+.button {
+    display: flex;
+    justify-content: center;
+}
+h3 {
+    text-align: justify;
+}
+input {
+    text-align: center;
+    font-size: 30px;
+}
+.answ {
+    text-align: center;
+}

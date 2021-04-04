@@ -1,0 +1,57 @@
+body {
+    background: azure;
+}
+.wrapper {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+h3,h2{
+    text-align: center;
+}
+h2 {
+    font-size: 40px;
+}
+h3 {
+    font-size: 35px;
+}
+input {
+    font-size: 17px;
+    text-align: center;
+    padding: 10px;
+    height: 25px;
+    width: 300px;
+}
+.task-text {
+    margin: 0 35px;
+}
+button {
+    cursor: pointer;
+    width: 200px;
+    margin-bottom: 20px;
+}
+p {
+    font-size: 25px;
+    margin: 15px 0;
+}
+.task-content {
+    text-align: center;
+}
+button {
+    background: bisque;
+    cursor: pointer;
+    width: 200px;
+    margin-bottom: 20px;
+    height: 40px;
+    font-size: 25px;
+}
+.button {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.res {
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
